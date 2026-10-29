@@ -1,0 +1,10 @@
+.render-box > .btn {
+  align-self: flex-start;
+}
+
+.render-children {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 12px;
+  margin-top: 8px;
+}

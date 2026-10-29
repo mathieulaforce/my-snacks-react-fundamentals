@@ -1,0 +1,122 @@
+[
+  {
+    "id": "stroopwafel",
+    "name": "Stroopwafel",
+    "emoji": "🧇",
+    "tier": "S",
+    "controversy": 2,
+    "bio": "Rest it on your coffee for 30 seconds. The patience is the price; the caramel is the reward."
+  },
+  {
+    "id": "speculoos",
+    "name": "Speculoos",
+    "emoji": "🍪",
+    "tier": "S",
+    "controversy": 1,
+    "bio": "Shows up with every coffee. Nobody asked; everybody's grateful."
+  },
+  {
+    "id": "paprika-crisps",
+    "name": "Paprika crisps",
+    "emoji": "🌶️",
+    "tier": "S",
+    "controversy": 3,
+    "bio": "Belgium's unofficial national crisp. Orange fingers are a badge of honour."
+  },
+  {
+    "id": "pralines",
+    "name": "Pralines",
+    "emoji": "🍫",
+    "tier": "A",
+    "controversy": 2,
+    "bio": "Eats like a gift, priced like a mortgage."
+  },
+  {
+    "id": "cheese-cubes",
+    "name": "Cheese cubes with celery salt",
+    "emoji": "🧀",
+    "tier": "A",
+    "controversy": 5,
+    "bio": "Bar-snack royalty. The celery salt is non-negotiable."
+  },
+  {
+    "id": "kinder-bueno",
+    "name": "Kinder Bueno",
+    "emoji": "🌰",
+    "tier": "A",
+    "controversy": 3,
+    "bio": "Comes in a pack of two. Nobody has ever shared the second one."
+  },
+  {
+    "id": "snickers",
+    "name": "Snickers",
+    "emoji": "🥜",
+    "tier": "A",
+    "controversy": 4,
+    "bio": "Officially a snack, unofficially a meal replacement during release week."
+  },
+  {
+    "id": "cuberdon",
+    "name": "Cuberdon",
+    "emoji": "🔺",
+    "tier": "B",
+    "controversy": 5,
+    "bio": "Hard shell, liquid raspberry core. A 3-day shelf life and a 0-second wait before you eat it."
+  },
+  {
+    "id": "popcorn",
+    "name": "Popcorn",
+    "emoji": "🍿",
+    "tier": "B",
+    "controversy": 3,
+    "bio": "The meeting snack. Loud, crumbly, and you'll find pieces in your keyboard until 2031."
+  },
+  {
+    "id": "gummy-bears",
+    "name": "Gummy bears",
+    "emoji": "🍬",
+    "tier": "B",
+    "controversy": 4,
+    "bio": "Five flavours, one group chat argument about which is best."
+  },
+  {
+    "id": "salty-liquorice",
+    "name": "Salty liquorice (drop)",
+    "emoji": "⚫",
+    "tier": "C",
+    "controversy": 9,
+    "bio": "The Dutch insist this is candy. Tastes like a dare."
+  },
+  {
+    "id": "mint-chocolate",
+    "name": "Mint chocolate",
+    "emoji": "🌿",
+    "tier": "C",
+    "controversy": 10,
+    "bio": "Toothpaste that went to finishing school."
+  },
+  {
+    "id": "candy-corn",
+    "name": "Candy corn",
+    "emoji": "🌽",
+    "tier": "C",
+    "controversy": 8,
+    "bio": "Made of sugar, wax and regret. Somehow still in production since 1880."
+  },
+  {
+    "id": "raisins",
+    "name": "Raisins",
+    "emoji": "🍇",
+    "tier": "D",
+    "controversy": 7,
+    "bio": "Grapes that gave up. Ruins every cookie that looks like chocolate chip."
+  },
+  {
+    "id": "celery",
+    "name": "Celery sticks",
+    "emoji": "🥬",
+    "tier": "D",
+    "controversy": 5,
+    "bio": "Burns more calories to chew than it contains. A snack in name only."
+  }
+]
